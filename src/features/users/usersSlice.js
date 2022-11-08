@@ -32,6 +32,5 @@ const usersSlice = createSlice({
         
     }
 });
-
 export const { userAdded, userUpdated, userDeleted } = usersSlice.actions;
 export default usersSlice.reducer;
