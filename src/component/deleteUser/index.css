@@ -1,0 +1,13 @@
+.deleteUserTable {
+    width: 100%;
+    text-align: left;
+    margin: 16px 0;
+}
+
+.deleteUserTable tr {
+    border: 1px solid #f0f0f0;
+}
+
+.deleteUserTable th, .deleteUserTable td {
+    padding: 10px;
+}
